@@ -1,1 +1,4 @@
-# zabcon
+# Zabcon Event
+
+## Business Analytics Competition
+
